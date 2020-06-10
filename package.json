@@ -1,0 +1,19 @@
+{
+  "name": "fanote-deepclone",
+  "version": "0.0.1",
+  "description": "Just deepClone by recursive function",
+  "main": "./src/deepClone.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "github@"
+  },
+  "keywords": [
+    "fanote",
+    "deepClone",
+    "deepClone without reference type"
+  ],
+  "author": "Fanote",
+  "license": "MIT",
+  "homepage": ""
+}
